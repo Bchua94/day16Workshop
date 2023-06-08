@@ -1,5 +1,6 @@
 package sg.edu.nus.iss.com.example.workshop16.controller;
 
+import org.springframework.stereotype.Service;
 import sg.edu.nus.iss.com.example.workshop16.model.Mastermind;
 
 @Service

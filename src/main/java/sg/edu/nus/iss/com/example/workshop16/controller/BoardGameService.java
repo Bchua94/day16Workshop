@@ -2,6 +2,7 @@ package sg.edu.nus.iss.com.example.workshop16.controller;
 
 import sg.edu.nus.iss.com.example.workshop16.model.Mastermind;
 
+@Service
 public class BoardGameService {
 
     public int saveGame(Mastermind ms) {
